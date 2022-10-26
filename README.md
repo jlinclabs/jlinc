@@ -4,8 +4,6 @@
 
 [JLINC](https://jlinc.com) is a new ‘permissioned data’ layer on the internet – a simple way to create digitally signed agreements that govern the automated exchange of data between databases at separate domains. 
 
-![diagram](https://assets.website-files.com/5c8f999450ed9d6d6a70d50b/620d6a91e39e046aebe926eb_Diagram%203.svg)
-
 See [jlinc.com](https://jlinc.com) for more information. 
 
 ## Tru - A Reference Implementation
